@@ -10,7 +10,7 @@ The purpose of this tool is to check Makefiles against a style protocol, which i
 
 ## Installation
 
-	python setup.py install
+	make install
 
 ## Contributors
 
